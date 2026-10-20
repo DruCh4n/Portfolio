@@ -1,0 +1,15 @@
+{
+  "name": "Portofolio — live net worth",
+  "short_name": "Portofolio",
+  "description": "Track Indonesian & US stocks, bonds, gold, silver and cash at live prices.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#eef6f3",
+  "theme_color": "#0d9488",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
